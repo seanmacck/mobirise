@@ -1771,3 +1771,18 @@ body {
     padding-bottom: 2rem;
   }
 }
+.cid-rk2EOasLxX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #7fd9fc, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-rk2EOasLxX .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rk2EOasLxX .mbr-figure {
+    padding-top: 3rem;
+  }
+}
